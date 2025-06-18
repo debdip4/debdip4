@@ -6,7 +6,7 @@ I am a passionate Mechanical Engineering undergraduate at the National Institute
 
 ### 🔬 **Current Research**
 
-I am currently working under the guidance of Dr. Sangeeth at NIT Calicut. My work focuses on:
+My current work focuses on:
 * Simulating the collapse of a static air bubble near a free surface using **Basilisk** for viscous Newtonian fluids. 
 * Analyzing scaling behavior by studying the variation of bubble radius with time-to-collapse for different Bond numbers. 
 
