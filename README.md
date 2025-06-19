@@ -1,52 +1,76 @@
-# Hi there, I'm Debdip Biswas 👋
+<!-- Profile README for debdip4 -->
 
-I am a passionate Mechanical Engineering undergraduate at the National Institute of Technology, Calicut (2023-27), with a keen interest in Fluid Mechanics and Computational Fluid Dynamics (CFD). My goal is to apply my growing skills in simulation and programming to solve complex, real-world fluid dynamics challenges.
+<h1 align="center">Hi there, I'm Debdip Biswas 👋</h1>
 
----
-
-### 🔬 **Current Research**
-
-My current work focuses on:
-* Simulating the collapse of a static air bubble near a free surface using **Basilisk** for viscous Newtonian fluids. 
-* Analyzing scaling behavior by studying the variation of bubble radius with time-to-collapse for different Bond numbers. 
-
----
-
-### 🚀 **My Projects**
-
-* **Bio-inspired Fish Propulsion for Underwater Robotics:** Created CAD models in **SolidWorks** and conducted CFD simulations using **ANSYS Fluent** to evaluate thrust performance. 
-* **Study of Drift Velocity in Gravity Wave Fields:** Performed experiments in a wave tank and used **high-speed imaging** and **PIVlab (MATLAB)** to analyze the drift velocity of floating objects. 
-
----
-
-### 🛠️ **My Tech Stack**
-
-Here are some of the tools and technologies I work with:
-
-**Programming & Data Science:**
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/> </a>
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab"/> </a>
-    <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-</p>
-
-**Simulation & CAD:**
-<p align="left">
-    <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ANSYS-ED1C24?style=for-the-badge&logo=ansys&logoColor=white" alt="ansys"/> </a>
-    <a href="https://openfoam.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenFOAM-002C6A?style=for-the-badge&logo=openfoam&logoColor=white" alt="openfoam"/> </a>
-    <a href="http://basilisk.fr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Basilisk-59945B?style=for-the-badge" alt="basilisk"/> </a>
-    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SolidWorks-0078B5?style=for-the-badge&logo=solidworks&logoColor=white" alt="solidworks"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mechanical%20Engineering%20Undergraduate-blue?style=flat-square" alt="Mechanical Engineering Undergraduate"/>
+  <img src="https://img.shields.io/badge/NIT%20Calicut-2023--27-darkgreen?style=flat-square" alt="NIT Calicut"/>
 </p>
 
 ---
 
-### 📫 **How to Reach Me**
+🚀 **Passionate about Fluid Mechanics & CFD**<br>
+🎓 Mechanical Engineering undergrad at <b>NIT Calicut (2023-27)</b><br>
+💡 Eager to apply simulation and programming to real-world fluid dynamics problems!
 
-Feel free to connect with me through the following platforms:
+---
+
+## 🔬 Current Research
+
+- **Simulating the collapse of static air bubbles near free surfaces** using <b>Basilisk</b> for viscous Newtonian fluids
+- **Analyzing scaling behavior**: Studying how bubble radius changes with time-to-collapse for different Bond numbers
+
+---
+
+## 🛠️ My Tech Stack
+
+```python
+Programming & Data Science:
+Python | NumPy | Pandas | Matplotlib | MATLAB | C
+```
+```yaml
+Simulation & CAD:
+ANSYS | OpenFOAM | Basilisk | SolidWorks
+```
+
+---
+
+## 🚀 Projects
+
+- **🐟 Bio-inspired Fish Propulsion for Underwater Robotics**
+  - CAD modeling in SolidWorks
+  - CFD simulation in ANSYS Fluent to evaluate thrust
+
+- **🌊 Study of Drift Velocity in Gravity Wave Fields**
+  - Experiments in a wave tank with high-speed imaging
+  - Data analysis using PIVlab (MATLAB) for object drift velocity
+
+---
+
+## 🌱 What I'm Learning & Exploring
+
+- Advanced CFD techniques
+- Physical modeling of real-world phenomena
+- Scientific programming and data visualization
+
+---
+
+## 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/debdip-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdip-biswas" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/debdip-biswas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Debdip%20Biswas-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:debdipbiswas04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-debdipbiswas04%40gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/debdip4">
+    <img src="https://img.shields.io/badge/GitHub-debdip4-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Curiosity, experimentation, and perseverance are the keys to discovery!”</em>
 </p>
