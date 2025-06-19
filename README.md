@@ -48,6 +48,6 @@ Here are some of the tools and technologies I work with:
 Feel free to connect with me through the following platforms:
 
 <p align="left">
-<a href="mailto:debdip.b230273me@nitc.ac.in" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/665/665233.png" alt="debdip.b230273me@nitc.ac.in" height="40" width="40" /></a>
+
 <a href="https://linkedin.com/in/debdip-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdip-biswas" height="30" width="40" /></a>
 </p>
